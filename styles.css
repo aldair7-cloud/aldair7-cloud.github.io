@@ -214,7 +214,7 @@ font-size: 14px;
 
 .stats div {
   background:
-  url("../img/p1.jpg") 0% 50% / 200% auto no-repeat;
+  url("P1.jpg") 0% 50% / 200% auto no-repeat;
 
   animation: waveMove 20s linear infinite;
 

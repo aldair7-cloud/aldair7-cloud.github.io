@@ -190,7 +190,7 @@ font-size: 14px;
       rgba(0,0,0,0.15),
       rgba(0,0,0,0.45)
     ),
-    url("img/33.png") center / cover no-repeat;
+    url("33.png") center / cover no-repeat;
 
   box-shadow: 0 0 35px rgba(0,214,255,0.35);
 }

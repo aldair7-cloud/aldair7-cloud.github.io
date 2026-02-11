@@ -185,12 +185,13 @@ font-size: 14px;
   border-radius: 10px;
   overflow: hidden;
 
-  background:
-    linear-gradient(
-      rgba(0,0,0,0.15),
-      rgba(0,0,0,0.45)
-    ),
-    url("33.png") center / cover no-repeat;
+ background:
+  linear-gradient(
+    rgba(0,0,0,0.15),
+    rgba(0,0,0,0.45)
+  ),
+  url("33.png") center / cover no-repeat;
+
 
   box-shadow: 0 0 35px rgba(0,214,255,0.35);
 }

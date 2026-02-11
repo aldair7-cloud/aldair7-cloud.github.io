@@ -213,8 +213,18 @@ background:
   margin: 30px 0;
   gap: 20px;
 }
+
 .stats div {
-  animation: waveMove 4s linear infinite !important;
+  background:
+  url("../img/p1.jpg") 0% 50% / 200% auto no-repeat;
+
+  animation: waveMove 20s linear infinite;
+
+  border: 1px solid rgba(0,214,255,0.65);
+  padding: 20px;
+  text-align: center;
+  border-radius: 100px;
+  box-shadow: 0 0 35px rgba(0,214,255,0.35);
 }
 
   border: 1px solid rgba(0,214,255,0.65);

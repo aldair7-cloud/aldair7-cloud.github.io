@@ -216,7 +216,7 @@ background:
 
 .stats div {
   background:
-  url("../img/P1.jpg") 0% 50% / 200% auto no-repeat;
+  url("P1.jpg") 0% 50% / 200% auto no-repeat;
 
   animation: waveMove 20s linear infinite;
 
